@@ -1,0 +1,2 @@
+# CamaSoundBoard
+Discord soundboard bot
